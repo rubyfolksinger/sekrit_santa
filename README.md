@@ -1,11 +1,11 @@
 sekrit_santa
 ============
 
-Sekrit Santa
+A function to generate a Sekrit Santa list.  Accepts a list of participants and returns a sorted list of Givers and Recipients.  Three or more unique participants are required.
 
 _Usage:_
 
-bc..
-  sekrit_santa(['Dan T', 'Dan X', 'Bill', 'Ted'])
-  _or_
-  sekrit_santa('Dan T, Dan X, Bill, Ted')
+```  sekrit_santa(['Dan T', 'Dan X', 'Bill', 'Ted']) ```
+
+_or_
+```  sekrit_santa('Dan T, Dan X, Bill, Ted') ```
